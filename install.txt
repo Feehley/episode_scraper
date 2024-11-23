@@ -1,0 +1,9 @@
+You'll need to have the following programs installed: 
+- Python version 3.10.12
+- HandBrake version 1.5.1
+- lsdvd version 0.17
+
+You'll also need to have some python3 libraries installed (pip3 install -r requirements.txt): 
+- python-magic version 0.4.24
+- tqdm version 4.64.0
+- dfdatetime version 20210509
