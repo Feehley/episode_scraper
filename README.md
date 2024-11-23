@@ -5,11 +5,11 @@ Scrape Episodes from ISO disc files
 $ ls \
 testfile.iso \
 \
-$ python3 episode_scraper.py testfile.iso \
+$ python3&emsp;episode_scraper.py&emsp;testfile.iso \
  100%|█████████████████████████████████████████████████████████████████| 6/6 [08:11, 98.31s/it] 
 
 $ ls \
-episode_scraper.py  Episodes  testfile.iso 
+episode_scraper.py&emsp;Episodes&emsp;testfile.iso 
 
 
 $ python3 episode_scraper testfile.iso -l24 -d -o TEST \
@@ -19,7 +19,7 @@ $ python3 episode_scraper testfile.iso -l24 -d -o TEST \
  100%|█████████████████████████████████████████████████████████████████| 6/6 [08:11, 98.31s/it] \
  \
 $ ls \
-episode_scraper.py  TEST  testfile.iso 
+episode_scraper.py&emsp;TEST&emsp;testfile.iso 
 
 ## Help
 $ python3 episode_scraper.py -h \
