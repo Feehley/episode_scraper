@@ -1,5 +1,5 @@
 # TLDR;
-Scrape Episodes from ISO disc files \
+Scrape Episodes from ISO disk files \
 Only tested on Ubuntu 22.04
 
 ## Usage
